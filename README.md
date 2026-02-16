@@ -1,4 +1,4 @@
-# 💻Projetos de Python desenvolvido no Senai
+# 💻Projetos de Python desenvolvidos no Senai
 
 
  <h3> Linguagem desenvolvida nesse repositório </h3> 
