@@ -1,4 +1,4 @@
-# 💻Material desenvolvido por mim na aula no 2º Ano de Desenvolvimento de Sistemas no SENAI Italo Bologna de Boituva
+# 💻Projetos de Python desenvolvido no Senai
 
 
  <h3> Linguagem desenvolvida nesse repositório </h3> 
